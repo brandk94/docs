@@ -7,6 +7,7 @@ Feel free to add suggestions for new tags to the list as part of your PR! Be sur
 ```
 Abstraction
 Accessibility
+Access Modifiers
 Aggregate Functions
 AI
 Algorithms
@@ -86,9 +87,12 @@ Cybersecurity
 D3
 Dart
 Data
+Data Parallelism
 Data Structures
 Data Types
 Database
+DataLoader
+Datasets
 Date
 Dart Operators
 Debugging
@@ -97,6 +101,7 @@ Deep Learning
 Denoising
 Dependency
 Design
+Deques
 Developer Tools
 Development
 DFS
@@ -206,6 +211,7 @@ Lists
 Logic
 Logical
 Logistic Regression
+Logit
 Loops
 Map
 Machine Learning
@@ -243,6 +249,7 @@ Open Source
 Operating Systems
 Operators
 Optimization
+Optimizers
 Optionals
 Output
 p5
@@ -268,6 +275,8 @@ Promise
 Programming
 Properties
 Protocols
+Python
+PyTorch
 Queries
 Queues
 Quicksort
@@ -280,6 +289,7 @@ Readr
 Rectangle
 Recursion
 Redux
+RMSProp
 References
 Regular Expressions
 Requests
@@ -310,13 +320,17 @@ SQL Server
 Stacks
 Static Site
 Statistics
+Statsmodels
 Storage
+Strict Mode
 Stringr
 Strings
 Structure
 Style
+Stochastic Gradient Descent
 Subqueries
 Supervised Learning
+Swift
 SwiftUI
 SwiftUI Views
 SwiftUI ViewModifiers
@@ -328,7 +342,9 @@ Tags
 Target
 Technical Interviews
 Templates
+Tensor
 TensorFlow
+Ternary
 Text-To-Image
 Text Processing
 Threads
@@ -353,6 +369,7 @@ Units
 Unix
 Unsupervised Learning
 URL
+Utility Types
 UX
 Validation
 Values
